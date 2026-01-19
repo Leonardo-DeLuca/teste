@@ -1,0 +1,380 @@
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:1 */
+.x-froala {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:7 */
+.x-froala .fr-wrapper {
+    flex: 1;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:12 */
+.x-froala i.fas.fa-markdown {
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:19 */
+.x-froala i.fas.fa-enable-tracking:before {
+    content: '\f573';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:26 */
+.x-froala i.fas.fa-show-changes:before {
+    content: '\f06e';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:33 */
+.x-froala i.fas.fa-apply-all:before {
+    content: '\f560';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:40 */
+.x-froala i.fas.fa-remove-all:before {
+    content: '\f0e2';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:47 */
+.x-froala i.fas.fa-apply-last:before {
+    content: '\f00c';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:54 */
+.x-froala i.fas.fa-remove-last:before {
+    content: '\f0e2';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:60 */
+.fr-popup .fr-dropdown-list a.fr-command i.fas {
+    line-height: 200%;
+    width: 100%;
+    text-align: center;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:20 */
+.x-froala.fr-box.fr-basic .fr-wrapper {
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:25 */
+.x-froala.fr-box.fr-basic .fr-wrapper .fr-element {
+    color: #414141;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:31 */
+.x-froala .second-toolbar {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:38 */
+.x-froala .fr-toolbar,
+.x-froala .fr-popup,
+.x-froala .fr-modal {
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+    color: #414141;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:46 */
+.x-froala .fr-toolbar .fr-newline,
+.x-froala .fr-popup .fr-newline,
+.x-froala .fr-modal .fr-newline {
+    background: #ccc;
+    height: 2px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:52 */
+.x-froala .fr-toolbar .fr-more-toolbar,
+.x-froala .fr-toolbar .fr-more-toolbar.fr-expanded,
+.x-froala .fr-popup .fr-more-toolbar,
+.x-froala .fr-popup .fr-more-toolbar.fr-expanded,
+.x-froala .fr-modal .fr-more-toolbar,
+.x-froala .fr-modal .fr-more-toolbar.fr-expanded {
+    background-color: #f5f5f5;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:57 */
+.x-froala .fr-toolbar .fr-command.fr-btn,
+.x-froala .fr-popup .fr-command.fr-btn,
+.x-froala .fr-modal .fr-command.fr-btn {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:61 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-toolbar .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-expanded:not(.fr-table-cell),
+.x-froala .fr-popup .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-popup .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-popup .fr-command.fr-btn.fr-expanded:not(.fr-table-cell),
+.x-froala .fr-modal .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-modal .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-modal .fr-command.fr-btn.fr-expanded:not(.fr-table-cell) {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:67 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active),
+.x-froala .fr-popup .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active),
+.x-froala .fr-modal .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active) {
+    background: #f5f5f5;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:72 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown:after,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown:after,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown:after {
+    border-top-color: #333;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:76 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:hover,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:hover,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:hover {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:80 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:after,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:after,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:after {
+    border-bottom-color: #333;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:85 */
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu {
+    background: #fff;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:91 */
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:100 */
+.x-froala .fr-toolbar .fr-command.fr-btn i,
+.x-froala .fr-popup .fr-command.fr-btn i,
+.x-froala .fr-modal .fr-command.fr-btn i {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:105 */
+.x-froala .fr-toolbar .fr-command.fr-btn:hover,
+.x-froala .fr-popup .fr-command.fr-btn:hover,
+.x-froala .fr-modal .fr-command.fr-btn:hover {
+    background: rgba(17, 17, 17, 0.075);
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:110 */
+.x-froala .fr-toolbar.fr-top,
+.x-froala .fr-popup.fr-top,
+.x-froala .fr-modal.fr-top {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:116 */
+.x-froala .fr-toolbar .fr-dropdown-content .fr-command i,
+.x-froala .fr-popup .fr-dropdown-content .fr-command i,
+.x-froala .fr-modal .fr-dropdown-content .fr-command i {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:1 */
+.x-froala {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:7 */
+.x-froala .fr-wrapper {
+    flex: 1;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:12 */
+.x-froala i.fas.fa-markdown {
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:19 */
+.x-froala i.fas.fa-enable-tracking:before {
+    content: '\f573';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:26 */
+.x-froala i.fas.fa-show-changes:before {
+    content: '\f06e';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:33 */
+.x-froala i.fas.fa-apply-all:before {
+    content: '\f560';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:40 */
+.x-froala i.fas.fa-remove-all:before {
+    content: '\f0e2';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:47 */
+.x-froala i.fas.fa-apply-last:before {
+    content: '\f00c';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:54 */
+.x-froala i.fas.fa-remove-last:before {
+    content: '\f0e2';
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/src/froala/Editor.scss:60 */
+.fr-popup .fr-dropdown-list a.fr-command i.fas {
+    line-height: 200%;
+    width: 100%;
+    text-align: center;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:20 */
+.x-froala.fr-box.fr-basic .fr-wrapper {
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:25 */
+.x-froala.fr-box.fr-basic .fr-wrapper .fr-element {
+    color: #414141;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:31 */
+.x-froala .second-toolbar {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:38 */
+.x-froala .fr-toolbar,
+.x-froala .fr-popup,
+.x-froala .fr-modal {
+    background-color: #fff;
+    border-color: #ccc;
+    border-style: solid;
+    color: #414141;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:46 */
+.x-froala .fr-toolbar .fr-newline,
+.x-froala .fr-popup .fr-newline,
+.x-froala .fr-modal .fr-newline {
+    background: #ccc;
+    height: 2px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:52 */
+.x-froala .fr-toolbar .fr-more-toolbar,
+.x-froala .fr-toolbar .fr-more-toolbar.fr-expanded,
+.x-froala .fr-popup .fr-more-toolbar,
+.x-froala .fr-popup .fr-more-toolbar.fr-expanded,
+.x-froala .fr-modal .fr-more-toolbar,
+.x-froala .fr-modal .fr-more-toolbar.fr-expanded {
+    background-color: #f5f5f5;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:57 */
+.x-froala .fr-toolbar .fr-command.fr-btn,
+.x-froala .fr-popup .fr-command.fr-btn,
+.x-froala .fr-modal .fr-command.fr-btn {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:61 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-toolbar .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-expanded:not(.fr-table-cell),
+.x-froala .fr-popup .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-popup .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-popup .fr-command.fr-btn.fr-expanded:not(.fr-table-cell),
+.x-froala .fr-modal .fr-command.fr-btn.fr-btn-hover:not(.fr-table-cell),
+.x-froala .fr-modal .fr-command.fr-btn:not(.fr-table-cell):focus,
+.x-froala .fr-modal .fr-command.fr-btn.fr-expanded:not(.fr-table-cell) {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:67 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active),
+.x-froala .fr-popup .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active),
+.x-froala .fr-modal .fr-command.fr-btn.fr-open:not(:hover):not(:focus):not(:active) {
+    background: #f5f5f5;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:72 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown:after,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown:after,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown:after {
+    border-top-color: #333;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:76 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:hover,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:hover,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:hover {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:80 */
+.x-froala .fr-toolbar .fr-command.fr-btn.fr-dropdown.fr-active:after,
+.x-froala .fr-popup .fr-command.fr-btn.fr-dropdown.fr-active:after,
+.x-froala .fr-modal .fr-command.fr-btn.fr-dropdown.fr-active:after {
+    border-bottom-color: #333;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:85 */
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu {
+    background: #fff;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:91 */
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-toolbar .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-popup .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a.fr-active,
+.x-froala .fr-modal .fr-command.fr-btn + .fr-dropdown-menu .fr-dropdown-wrapper .fr-dropdown-content ul.fr-dropdown-list li a:hover {
+    background: #ebebeb;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:100 */
+.x-froala .fr-toolbar .fr-command.fr-btn i,
+.x-froala .fr-popup .fr-command.fr-btn i,
+.x-froala .fr-modal .fr-command.fr-btn i {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:105 */
+.x-froala .fr-toolbar .fr-command.fr-btn:hover,
+.x-froala .fr-popup .fr-command.fr-btn:hover,
+.x-froala .fr-modal .fr-command.fr-btn:hover {
+    background: rgba(17, 17, 17, 0.075);
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:110 */
+.x-froala .fr-toolbar.fr-top,
+.x-froala .fr-popup.fr-top,
+.x-froala .fr-modal.fr-top {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/sass/var/froala/Editor.scss:116 */
+.x-froala .fr-toolbar .fr-dropdown-content .fr-command i,
+.x-froala .fr-popup .fr-dropdown-content .fr-command i,
+.x-froala .fr-modal .fr-dropdown-content .fr-command i {
+    color: #333;
+    font-size: 13px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/classic/sass/src/froala/EditorField.scss:2 */
+.x-autocontainer-form-item.x-form-item-no-label > .x-form-item-label {
+    display: none;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/classic/sass/src/froala/EditorField.scss:7 */
+.curved-form-field-border .fr-second-toolbar {
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+}
+/* /home/teamcity/buildAgent/work/42e663fcf3f8e4b4/staging/packages/froala-editor/classic/sass/src/froala/EditorField.scss:13 */
+.curved-form-field-border .x-form-field.x-form-invalid-field {
+    background-image: none;
+}

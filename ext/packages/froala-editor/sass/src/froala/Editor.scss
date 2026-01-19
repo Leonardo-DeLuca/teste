@@ -1,0 +1,80 @@
+.#{$prefix}froala {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    
+    .fr-wrapper {
+        flex: 1
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-markdown {
+        font-family: 'Font Awesome 5 Brands';
+        font-weight: 400;
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-enable-tracking {
+        &:before {
+            content: '\f573';
+        }
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-show-changes {
+        &:before {
+            content: '\f06e';
+        }
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-apply-all {
+        &:before {
+            content: '\f560';
+        }
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-remove-all {
+        &:before {
+            content: '\f0e2';
+        }
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-apply-last {
+        &:before {
+            content: '\f00c';
+        }
+    }
+
+    // TODO: Remove once have fix from froala
+    i.fas.fa-remove-last {
+        &:before {
+            content: '\f0e2';
+        }
+    }
+}
+
+.fr-popup .fr-dropdown-list a.fr-command i.fas {
+    line-height: 200%;
+    width: 100%;
+    text-align: center;
+}
+
+@include froala-toolbar-ui(
+    $fr-glyph-color: $fr-btn-glyph-color,
+    $fr-font-size: $fr-btn-font-size,
+    $fr-background-hover: $fr-btn-background-hover,
+    $fr-border-radius: $fr-toolbar-border-radius,
+    $fr-wrapper-background-color: $fr-editor-background-color,
+    $fr-toolbar-background-color: $fr-editor-toolbar-background-color,
+    $fr-toolbar-border-color: $fr-toolbar-border-bottom-color,
+    $fr-element-color: $fr-editor-font-color,
+    $fr-border-color: $fr-editor-border-color,
+    $fr-border-style: $fr-editor-border-style,
+    $fr-menu-expanded-background: $fr-menu-expanded-background-color,
+    $fr-toolbar-border-bottom: $fr-toolbar-border-bottom-height,
+    $fr-toolbar-active-background: $fr-toolbar-active-background-color
+);

@@ -1,0 +1,16 @@
+//to support froala editor hideLabel and hideEmptyLabel configs
+.#{$prefix}autocontainer-form-item.#{$prefix}form-item-no-label > .#{$prefix}form-item-label {
+    display: none;
+}
+
+.curved-form-field-border {
+    .fr-second-toolbar {
+        border-radius: 0px;
+        -moz-border-radius: 0px;
+        -webkit-border-radius: 0px;
+    }
+
+    .#{$prefix}form-field.#{$prefix}form-invalid-field {
+        background-image:none;
+    }
+}
