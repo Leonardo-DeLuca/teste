@@ -1,0 +1,1580 @@
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:228 */
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-pressed.x-btn-focus,
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-focus {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:235 */
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-medium.x-btn-arrow:after,
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-medium.x-btn-arrow:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:239 */
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium,
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:243 */
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium,
+.x-keyboard-mode .x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:260 */
+.x-btn-default-toolbar-medium.x-btn-disabled .x-btn-wrap-default-toolbar-medium.x-btn-arrow:after {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:264 */
+.x-btn-default-toolbar-medium.x-btn-disabled .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:268 */
+.x-btn-default-toolbar-medium.x-btn-disabled .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:275 */
+.x-btn-default-toolbar-medium.x-btn-disabled.x-btn-pressed {
+    background-color: rgba(157, 157, 157, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:282 */
+.x-btn-default-toolbar-medium.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-arrow:after {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:286 */
+.x-btn-default-toolbar-medium.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:290 */
+.x-btn-default-toolbar-medium.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:457 */
+.x-split-button.x-btn-default-toolbar-medium {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:462 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed,
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:466 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus {
+    background-color: #d9d9d9;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:473 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-arrow-el {
+    border-width: 0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:482 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right:before {
+    right: 45px;
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:487 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el {
+    right: 44px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:490 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    right: -44px;
+    width: 44px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:496 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right .x-btn-button:before {
+    width: 44px;
+    right: -44px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:502 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:before {
+    bottom: 49px;
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:507 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: transparent;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:513 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:517 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:521 */
+.x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:528 */
+.x-ie10p .x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium .x-btn-button.x-btn-icon-top,
+.x-ie10p .x-split-button.x-btn-default-toolbar-medium .x-btn-wrap-default-toolbar-medium .x-btn-button.x-btn-icon-bottom {
+    overflow: visible;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-icon-el-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-inner-default-toolbar-medium {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:426 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-medium.x-btn-split:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:442 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:449 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:128 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-arrow-right:after {
+    padding-left: 8px;
+    padding-top: 2px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:136 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:140 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:144 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:160 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:164 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:168 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:175 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus.x-btn-over {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:189 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:193 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:197 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:204 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:211 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:215 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:219 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:228 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:235 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:239 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:243 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:260 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:264 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:268 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:275 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed {
+    background-color: rgba(157, 157, 157, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:282 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:286 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:290 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:457 */
+.x-split-button.x-btn-default-toolbar-large {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:462 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed,
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:466 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus {
+    background-color: #d9d9d9;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:473 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-arrow-el {
+    border-width: 0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:482 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right:before {
+    right: 49px;
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:487 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el {
+    right: 48px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:490 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    right: -48px;
+    width: 48px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:496 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right .x-btn-button:before {
+    width: 48px;
+    right: -48px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:502 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:before {
+    bottom: 49px;
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:507 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: transparent;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:513 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:517 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:521 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:528 */
+.x-ie10p .x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-button.x-btn-icon-top,
+.x-ie10p .x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-button.x-btn-icon-bottom {
+    overflow: visible;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #d9d9d9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:426 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #9d9d9d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #b8b8b8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:442 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/button/Button.scss:449 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Tool.scss:1 */
+.x-tool-tool-el {
+    margin: 2px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Tool.scss:6 */
+.x-keyboard-mode .x-tool-focus {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Tool.scss:9 */
+.x-keyboard-mode .x-tool-focus .x-tool-tool-el {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Tool.scss:15 */
+.x-tool-over {
+    background-color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Tool.scss:18 */
+.x-tool-over .x-tool-tool-el {
+    color: #1b1b1b;
+    background-color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/panel/Header.scss:1 */
+.x-panel-header-title.x-title-focus {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/resizer/Splitter.scss:3 */
+.x-keyboard-mode .x-splitter-focus .x-collapse-el {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:1 */
+.x-form-fieldcontainer > .x-form-item-body > .x-box-layout-ct > .x-box-inner {
+    min-height: 50px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:5 */
+.x-box-scroller-menu-default.x-box-scroller-top,
+.x-box-scroller-menu-default.x-box-scroller-bottom {
+    margin: 0px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    color: #e2e2e2;
+    padding-top: 2px;
+    background-color: #1b1b1b;
+    opacity: 1;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:16 */
+.x-box-scroller-menu-default.x-box-scroller-top:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom:before {
+    opacity: 0.5;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:20 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover {
+    background-color: #fff;
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:24 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover:before {
+    opacity: 0.8;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:28 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover.x-box-scroller-pressed:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover.x-box-scroller-pressed:before {
+    opacity: 1;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:33 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled {
+    background-color: #1b1b1b;
+    color: #e2e2e2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Box.scss:37 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled:before,
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled.x-box-scroller-pressed:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled.x-box-scroller-pressed:before {
+    opacity: 0.5;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/toolbar/Toolbar.scss:1 */
+.x-toolbar-default-docked-bottom {
+    background-color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:1 */
+.x-form-trigger-wrap-default {
+    background-color: #6d6d6d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:5 */
+.x-form-trigger-wrap-focus {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:8 */
+.x-form-trigger-wrap-focus .x-form-text-wrap .x-form-text-default,
+.x-form-trigger-wrap-focus .x-form-trigger,
+.x-form-trigger-wrap-focus .x-form-spinner-focus {
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:14 */
+.x-form-trigger-wrap-focus .x-form-text-wrap input {
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:17 */
+.x-form-trigger-wrap-focus .x-form-text-wrap input::-ms-clear {
+    display: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:22 */
+.x-form-trigger-wrap-focus:hover {
+    position: relative;
+    outline: 3px solid #fff;
+    outline-offset: -3px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/css-outline.scss:63 */
+.x-ie .x-form-trigger-wrap-focus:hover,
+.x-ie10p .x-form-trigger-wrap-focus:hover,
+.x-edge .x-form-trigger-wrap-focus:hover {
+    outline: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/css-outline.scss:39 */
+.x-ie .x-form-trigger-wrap-focus:hover:after,
+.x-ie10p .x-form-trigger-wrap-focus:hover:after,
+.x-edge .x-form-trigger-wrap-focus:hover:after {
+    position: absolute;
+    content: ' ';
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border: 3px solid #fff;
+    pointer-events: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:35 */
+.x-form-trigger-default.x-form-trigger-over,
+.x-form-trigger-default .x-form-spinner-over {
+    background-color: #868686;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:41 */
+.x-form-trigger-wrap-focus .x-form-trigger-default.x-form-trigger-over,
+.x-form-trigger-wrap-focus .x-form-trigger-default .x-form-spinner-over {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/selection-color.scss:2 */
+.x-form-text::-moz-selection {
+    background: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/selection-color.scss:6 */
+.x-form-text::selection {
+    background: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:2 */
+.x-form-text::-webkit-input-placeholder {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:6 */
+.x-form-text::-moz-placeholder {
+    /* Firefox 19+ */
+    /* Firefox 19+ */
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:10 */
+.x-form-text:-ms-input-placeholder {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Text.scss:53 */
+.x-form-trigger-wrap-invalid {
+    border-width: 1px;
+    border-color: #cf4c35;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/FieldSet.scss:2 */
+.x-keyboard-mode .x-fieldset-header-tool-default.x-focus {
+    outline: unset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/FieldSet.scss:5 */
+.x-keyboard-mode .x-fieldset-header-tool-default.x-focus > .x-tool-toggle {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/FieldSet.scss:12 */
+.x-fieldset-header-tool-default.x-tool-over > .x-tool-toggle {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/FieldSet.scss:17 */
+.x-fieldset-header-tool-default > .x-tool-toggle {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/View.scss:2 */
+.x-keyboard-mode .x-view-item-focused {
+    outline: 1px dashed #fff !important;
+    outline-offset: -1px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/toolbar/Paging.scss:4 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap .x-btn-icon-el {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/toolbar/Paging.scss:8 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap .x-btn-inner {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/toolbar/Paging.scss:12 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap.x-btn-arrow-right:after,
+.x-grid-paging-toolbar .x-btn .x-btn-wrap.x-btn-arrow-split:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/toolbar/Paging.scss:19 */
+.x-grid-paging-toolbar .x-slider .x-slider-thumb {
+    border-color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/picker/Date.scss:1 */
+.x-datepicker-arrow {
+    top: 0px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/picker/Date.scss:5 */
+.x-datepicker-today .x-datepicker-date {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/picker/Date.scss:9 */
+.x-datepicker-month .x-btn-wrap.x-btn-split-right:before {
+    border-right: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/File.scss:1 */
+.x-form-file-wrap .x-form-trigger-wrap-default {
+    background: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/File.scss:4 */
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-text-wrap.x-form-text-wrap-default {
+    background-color: #6d6d6d;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/File.scss:8 */
+.x-form-file-wrap .x-form-trigger-wrap-default.x-form-trigger-wrap-focus:hover {
+    position: relative;
+    outline: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/File.scss:12 */
+.x-form-file-wrap .x-form-trigger-wrap-default.x-form-trigger-wrap-focus:hover:after {
+    display: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/File.scss:19 */
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-trigger.x-form-trigger-over,
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-trigger.x-form-spinner-over {
+    background: none;
+    cursor: initial;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:1 */
+.x-tagfield-empty-input,
+.x-tagfield-input-field {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/selection-color.scss:2 */
+.x-tagfield-empty-input::-moz-selection,
+.x-tagfield-input-field::-moz-selection {
+    background: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/selection-color.scss:6 */
+.x-tagfield-empty-input::selection,
+.x-tagfield-input-field::selection {
+    background: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:2 */
+.x-tagfield-empty-input::-webkit-input-placeholder,
+.x-tagfield-input-field::-webkit-input-placeholder {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:6 */
+.x-tagfield-empty-input::-moz-placeholder,
+.x-tagfield-input-field::-moz-placeholder {
+    /* Firefox 19+ */
+    /* Firefox 19+ */
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:10 */
+.x-tagfield-empty-input:-ms-input-placeholder,
+.x-tagfield-input-field:-ms-input-placeholder {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:10 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected {
+    background-color: #e6e6e6;
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:14 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected .x-tagfield-item-close {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:18 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover {
+    background-color: #cecece;
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:22 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover .x-tagfield-item-close {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:29 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item {
+    background-color: #1b1b1b;
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:33 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item .x-tagfield-item-close {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:37 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item:hover {
+    background-color: #0072b2;
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:41 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item:hover .x-tagfield-item-close {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:46 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected {
+    background-color: #0072b2;
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:50 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected .x-tagfield-item-close {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:54 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover {
+    background-color: #0072b2;
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/form/field/Tag.scss:58 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover .x-tagfield-item-close {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/Table.scss:1 */
+.x-grid-item-selected.x-grid-item-focused .x-selmodel-column .x-grid-checkcolumn:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/Table.scss:5 */
+.x-grid-item-selected .x-grid-cell-row-numberer {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/Table.scss:9 */
+.x-grid-with-row-lines .x-grid-item.x-grid-item-selected:first-child {
+    border-top-color: #424242;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/Table.scss:13 */
+.x-grid-item {
+    min-height: 50px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/view/Table.scss:18 */
+.x-keyboard-mode .x-grid-row .x-grid-cell.x-grid-item-focused.x-grid-cell-selected {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/header/DropZone.scss:1 */
+.x-col-move-top,
+.x-col-move-bottom {
+    background-size: cover;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Column.scss:3 */
+.x-keyboard-mode .x-column-header-focus .x-column-header-over {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Column.scss:7 */
+.x-keyboard-mode .x-column-header-focus .x-column-header-over .x-column-header-trigger {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Column.scss:17 */
+.x-column-header-sort-ASC .x-column-header-text-inner,
+.x-column-header-sort-DESC .x-column-header-text-inner {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Column.scss:24 */
+.x-column-header-focus .x-column-header-text-inner,
+.x-column-header-over .x-column-header-text-inner {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Column.scss:27 */
+.x-column-header-focus .x-column-header-text-inner:after,
+.x-column-header-over .x-column-header-text-inner:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Action.scss:2 */
+.x-keyboard-mode .x-grid-cell-inner-action-col {
+    text-align: center;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Action.scss:5 */
+.x-keyboard-mode .x-grid-cell-inner-action-col .x-action-col-icon:focus {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Check.scss:3 */
+.x-keyboard-mode .x-grid-cell .x-grid-checkcolumn:focus {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Check.scss:6 */
+.x-keyboard-mode .x-grid-cell .x-grid-checkcolumn:focus:after {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/column/Check.scss:15 */
+.x-grid-item-selected .x-grid-checkcolumn:after,
+.x-grid-cell-selected .x-grid-checkcolumn:after {
+    color: #404040;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/menu/Menu.scss:1 */
+.x-menu-item-icon,
+.x-menu-item-icon-right,
+.x-menu-item-arrow {
+    text-align: initial;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/Editing.scss:3 */
+.x-grid-editor .x-form-text {
+    padding-top: 3px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/Editing.scss:9 */
+.x-grid-editor .x-form-cb {
+    margin-left: -10px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/RowEditing.scss:1 */
+.x-grid-row-editor .x-panel-body .x-box-inner {
+    margin-top: 2px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:1 */
+.x-grid-item-selected .x-grid-row-expander {
+    color: #404040;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:5 */
+.x-grid-item-focused .x-grid-row-expander {
+    color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:9 */
+.x-grid-row-expander:focus {
+    color: #fff;
+    background: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:14 */
+.x-grid-row-expander:before {
+    line-height: 26px;
+    text-align: center;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/layout/container/Accordion.scss:1 */
+.x-keyboard-mode .x-accordion-hd-over .x-panel-header-title.x-title-focus {
+    outline: 3px solid #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/resizer/Resizer.scss:1 */
+.x-resizable-proxy {
+    border-width: 2px;
+    border-color: #fff;
+    border-style: dotted;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/slider/Multi.scss:5 */
+.x-ie10p .x-slider-thumb.x-slider-thumb-over {
+    color: #707070;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/slider/Multi.scss:8 */
+.x-ie10p .x-slider-thumb.x-slider-thumb-over:before {
+    position: relative;
+    z-index: 100;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/slider/Multi.scss:17 */
+.x-keyboard-mode .x-slider-focus .x-slider-thumb {
+    border-width: 0px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/slider/Multi.scss:20 */
+.x-keyboard-mode .x-slider-focus .x-slider-thumb.x-slider-thumb-over {
+    background-color: #56b4e9;
+    border-width: 3px;
+    border-color: #fff;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/tab/Tab.scss:126 */
+.x-tab-default.x-tab-active.x-tab-over {
+    background-color: #bcbcbc;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/tab/Tab.scss:136 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-inner-default {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/tab/Tab.scss:146 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-icon-el {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/tab/Tab.scss:156 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-close-btn {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/tab/Tab.scss:166 */
+.x-keyboard-mode .x-tab-default.x-tab-active.x-tab-over.x-tab-focus {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/tab/Bar.scss:2 */
+.x-box-scroller-tab-bar-default.x-box-scroller-hover {
+    background-color: #fff !important;
+    color: #686868;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/tab/Bar.scss:7 */
+.x-tab-bar-default-right .x-box-scroller-tab-bar-default {
+    margin-left: -31px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/tab/Bar.scss:11 */
+.x-tab-bar-default-bottom .x-box-scroller-tab-bar-default {
+    margin-top: -31px;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:60 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small {
+    background-color: transparent;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:64 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after {
+    background: none !important;
+    content: '\f105';
+    font: 16px/1 'Font Awesome 5 Free';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:69 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:74 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:78 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:83 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over {
+    background-color: #aeaeae;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:87 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:92 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:96 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:100 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:106 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active {
+    background-color: #e6e6e6;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:111 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after {
+    background: none !important;
+    content: '\f107';
+    font: 16px/1 'Font Awesome 5 Free';
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:116 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:121 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:125 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:129 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:134 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over {
+    background-color: #cecece;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:138 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:143 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:147 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:155 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus {
+    background-color: #56b4e9;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:160 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:165 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:169 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:173 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:178 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over {
+    background-color: #56b4e9;
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:184 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:189 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:193 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:199 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:204 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:209 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:213 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:217 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:222 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over {
+    background-color: #0072b2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:226 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:231 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:235 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:239 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:247 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:251 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:256 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:260 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:264 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/window/Toast.scss:2 */
+.x-toast .x-window-body-default {
+    background-color: #f2f2f2;
+}
+/* D:/Desenvolvimento/Framework/7.8/ext/ext-7.8.0/classic/theme-graphite/sass/src/window/Toast.scss:6 */
+.x-toast .x-autocontainer-innerCt {
+    color: #1b1b1b;
+}
