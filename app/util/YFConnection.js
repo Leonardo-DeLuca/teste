@@ -26,7 +26,7 @@ Ext.define('AppYF.util.YFConnection', {
         password: '',
         refreshToken: '',
         accessToken: '',
-        serverUrl: window.location.origin,
+        serverUrl: 'https://bi.useall.com.br',
         version: 'v3',
         nonce: null,
         debug: false
@@ -179,29 +179,25 @@ Ext.define('AppYF.util.YFConnection', {
          * @param {*} style     css style to apply to the thumbnail
          * @returns 
          */
-        _yf_loadImage: function (imageUrl,style=null) {
-            let me=this;
-
-            style = (style) ? style : "width: 58px; height: 34px;" ;
-
-            return new Ext.Promise(function (resolve, reject) {
+        _yf_loadImage: function (imageUrl, style = null) {
+            let me = this;
+            style = style || "width: 58px; height: 34px;";
+        
+            return new Ext.Promise(function (resolve) {
                 if (imageUrl.startsWith("/api/images/")) {
                     Ext.Ajax.request({
-                        url: me.serverUrl+imageUrl,
+                        url: me.serverUrl + imageUrl,
                         method: 'GET',
-                        headers: me._yf_getHeader(me.yfData.accessToken), // Get header generates all the parameters needed to connect to yellowfin
+                        headers: me._yf_getHeader(me.yfData.accessToken),
                         binary: true,
-                        success: function(response){
-                            let arrayBuffer = response.responseBytes || response.responseArrayBuffer || response.responseText;
-                            let blob = new Blob([arrayBuffer], { type: 'image/png' }); // adjust MIME type if needed
+                        success: function (response) {
+                            let arrayBuffer = response.responseBytes || response.responseArrayBuffer;
+                            let blob = new Blob([arrayBuffer], { type: 'image/png' });
                             let url = URL.createObjectURL(blob);
                             let img = document.createElement('img');
                             img.src = url;
                             img.style = style;
-							resolve(img); /// TODO: CONTINUE HERE
-                        },
-                        failure: function(response){
-                            console.error('Request failed', response.status);
+                            resolve(img);
                         }
                     });
                 } else {
@@ -244,39 +240,32 @@ Ext.define('AppYF.util.YFConnection', {
          * @param {*} loginToken            Previously generated single-use login token
          * @param {*} reportPublishUUID     The reports unique identifier
          */
-        _yf_loadReport: function (extContainerId,loginToken,reportPublishUUID) {
+        _yf_loadReport: function (extContainerId, loginToken, dashboardUUID) {
             let me = this;
-            let element = document.createElement('script');
             let container = document.getElementById(extContainerId);
-
-
-            console.log("%cEmbed Chart", "color:#993;");
-            
+        
+            console.log("%cEmbed Dashboard", "color:#993;");
+        
             Ext.Loader.loadScript({
                 url: `${me.serverUrl}/JsAPI/${me.config.version}?token=${loginToken}`,
-                onLoad: function() {
-                    // Initialize chart once library is ready
-                    console.log("%cChart API Loaded", "color:#993;");
-                    //document.body.appendChild(script); // Add Script into Memory, and run it
-                    
+                onLoad: function () {
+                    console.log("%cDashboard API Loaded", "color:#993;");
+        
                     let options = {
-                        reportId: reportPublishUUID,
+                        dashboardUUID: dashboardUUID,
                         element: container,
                         width: 590,
                         height: 450
                     };
+        
                     yellowfin.init().then(() => {
-                        yellowfin.showLoginPrompt=false;
-                        yellowfin.loadReport(options).then(report => {
-                            console.log("report = ", report);
-
+                        yellowfin.showLoginPrompt = false;
+                        yellowfin.loadDashboard(options).then(dashboard => {
+                            console.log("dashboard = ", dashboard);
                         });
                     });
-                },
-                onError: function() {
-                },
+                }
             });
-
         },
 
         /**
@@ -329,32 +318,24 @@ Ext.define('AppYF.util.YFConnection', {
          * @param {*} callback 
          */
         _yf_loadReports: function (callback) {
-            let me=this;
-            let apiEndpoint = "reports";
-            let data={};
-
-            console.log("%cConnecting to reports API", "color:#993;");
-
-
+            let me = this;
+            let apiEndpoint = "dashboards";
+        
+            console.log("%cConnecting to dashboards API", "color:#993;");
+        
             Ext.Ajax.request({
-                url: me.serverUrl+'/api/'+apiEndpoint,
+                url: me.serverUrl + '/api/' + apiEndpoint,
                 method: 'GET',
                 headers: me._yf_getHeader(me.yfData.accessToken),
-                success: function(response){
-                    // Save Tokens
-                    console.log("%cSuccess retreived reports", "color:#993;");
+                success: function (response) {
+                    console.log("%cSuccess retrieved dashboards", "color:#993;");
                     let data = Ext.decode(response.responseText);
-                    if (callback!==null) {
-                        callback(true,data); // parse JSON
-                    }
+                    callback && callback(true, data);
                 },
-                failure: function(response){
+                failure: function (response) {
                     console.error('Request failed', response.status);
-                    // Try and login again
-                        let resp = Ext.decode(response.responseText);
-                    if (callback!==null) {
-                        callback(false,resp); // parse JSON
-                    }
+                    let resp = Ext.decode(response.responseText);
+                    callback && callback(false, resp);
                 }
             });
         },

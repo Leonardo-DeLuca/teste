@@ -28,9 +28,9 @@
      *
      */
     "frameworks": {        "ext": {
-            "path":"ext",
-            "version":"7.9.0.20"
-        }
+        "path":"ext",
+        "version":"7.8.0"
+    }
 
     },
 
